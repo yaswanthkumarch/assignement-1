@@ -1,1 +1,5 @@
-# assignement-1
+# assignment -1
+
+
+
+   POWER OF TWO NUMBERS
