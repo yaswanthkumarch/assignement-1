@@ -11,3 +11,4 @@ y=int(input("enter a second number:"))
 res=x**y
 print('the power of two numbers is:',res)
 print(res)
+print(res)
