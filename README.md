@@ -3,6 +3,3 @@
 
 
    POWER OF TWO NUMBERS
-
-
-anfd you
