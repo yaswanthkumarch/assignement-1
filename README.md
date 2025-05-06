@@ -2,7 +2,7 @@
 
 
 
-   POWER OF TWO NUMBERS added
+   POWER OF TWO NUMBERS added successfully
 
 
 alos
