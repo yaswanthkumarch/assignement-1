@@ -2,7 +2,4 @@
 
 
 
-   POWER OF TWO N xxzzzzzzUMBERS added successfully APPLIED
-
-
-alos
+   POWER OF TWO Numners
